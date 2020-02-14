@@ -1,5 +1,5 @@
 <h1>
-  <img  src="github/omnistack.png" wight="90%">
+  <img  hreft="https://rocketseat.com.br" src="github/omnistack.png" wight="90%">
 </h1>
 <h1 align="center">
   :rocket: Semana OmniStack 10.0 :rocket:
