@@ -1,6 +1,8 @@
-
+<h1>
+  <img  src="github/omnistack.png" wight="90%">
+</h1>
 <h1 align="center">
-  Semana OmniStack 10.0
+  :rocket: Semana OmniStack 10.0 :rocket:
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
@@ -19,7 +21,7 @@
 </p>
 
 ---
-## Tecnologias
+## :gear: Tecnologias
 
 Esse projeto utilizou as seguintes tecnologias:
 
@@ -31,8 +33,10 @@ Esse projeto utilizou as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 ---
-## Licença
+## :scroll: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+:squirrel:
+
