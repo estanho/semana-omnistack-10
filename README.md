@@ -1,8 +1,4 @@
 <h1 align="center">
-  <img src="github/omnistack.png" width="90%">
-</h1>
-
-<h1 align="center">
   :rocket: Semana OmniStack 10.0 :rocket:
 </h1>
 
