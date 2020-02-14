@@ -1,9 +1,11 @@
 <h1>
-  <img  hreft="https://rocketseat.com.br" src="github/omnistack.png" wight="90%">
+  <img src="github/omnistack.png" wight="90%">
 </h1>
+
 <h1 align="center">
   :rocket: Semana OmniStack 10.0 :rocket:
 </h1>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 
@@ -19,6 +21,10 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+---
+## :computer: Projeto
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 ---
 ## :gear: Tecnologias
