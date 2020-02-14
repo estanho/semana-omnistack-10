@@ -27,14 +27,10 @@
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 ## :computer: Web
-<h1 alight="center">
-  <img src="github/web.png"> 
-</h1>
+<img align="center" src="github/web.png" width="75%"> 
 
 ## :iphone: Mobile
-<h1 alight="center">
-  <img src="github/mobile.png"> 
-</h1>
+<img align="center" src="github/mobile.png"> 
 
 ---
 ## :gear: Tecnologias
