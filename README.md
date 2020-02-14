@@ -25,11 +25,12 @@
 ---
 ## :mag: Projeto
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+<br>
 
-## :computer: Web
+- ## :computer: Web
 <img align="center" src="github/web.png" width="75%"> 
 
-## :iphone: Mobile
+- ## :iphone: Mobile
 <img align="center" src="github/mobile.png"> 
 
 ---
