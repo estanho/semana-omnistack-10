@@ -5,7 +5,7 @@
 ---
 ## Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto utilizou as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Socket.io](https://socket.io/)
