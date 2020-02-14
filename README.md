@@ -1,5 +1,11 @@
 
 <h1 align="center">
+    <img src="github/omnistack.png" width="90%" />
+</h1>
+
+---
+
+<h1 align="center">
   Semana OmniStack 10.0
 </h1>
 
@@ -18,11 +24,6 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
-
----
-<h1 align="center">
-    <img src="github/omnistack.png" width="90%" />
-</h1>
 
 ---
 ## Tecnologias
