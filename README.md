@@ -3,8 +3,6 @@
     <img src="github/omnistack.png" width="90%" />
 </h1>
 
----
-
 <h1 align="center">
   Semana OmniStack 10.0
 </h1>
