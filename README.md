@@ -23,7 +23,7 @@
 </p>
 
 ---
-## :mag: Projeto
+## Projeto
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 <br>
 
@@ -34,7 +34,7 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 <img align="center" src="github/mobile.png"> 
 
 ---
-## :gear: Tecnologias
+## Tecnologias
 
 Esse projeto utilizou as seguintes tecnologias:
 
@@ -46,7 +46,7 @@ Esse projeto utilizou as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 ---
-## :scroll: Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
