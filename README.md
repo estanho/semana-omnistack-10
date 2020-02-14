@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   <img src="github/omnistack.png" wight="90%">
 </h1>
 
@@ -25,6 +25,10 @@
 ---
 ## :computer: Projeto
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+
+<h1 align="right">
+  <img src="github/web.png" wight="10%">
+</h1>
 
 ---
 ## :gear: Tecnologias
