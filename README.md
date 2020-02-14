@@ -1,6 +1,8 @@
+
 <h1 align="center">
   Semana OmniStack 10.0
 </h1>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 
@@ -16,6 +18,11 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+---
+<h1 align="center">
+    <img src="github/omnistack.png" width="90%" />
+</h1>
 
 ---
 ## Tecnologias
@@ -35,3 +42,4 @@ Esse projeto utilizou as seguintes tecnologias:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+:squirrel:
