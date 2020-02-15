@@ -16,7 +16,7 @@
 
 ---
 ## Projeto
-O **DevRadar** é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+O **DevRadar** é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias. <br>
 O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://rocketseat.com.br/).
 <br>
 
