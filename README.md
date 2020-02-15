@@ -41,7 +41,7 @@ Esse projeto utilizou as seguintes tecnologias:
 ---
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+[LICENSE](LICENSE) & [Rocketseat](https://rocketseat.com.br/)
 
 ---
 :squirrel:
