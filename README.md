@@ -1,4 +1,5 @@
-<img align="center" src="github/omnistack.png" width="90%"> 
+
+<img align="center" src="github/omnistack.png"> 
 
 <h1 align="center">
   :rocket: Semana OmniStack 10.0 :rocket:
@@ -12,8 +13,9 @@
   <a href="https://github.com/pedrohrg/semana-omnistack-10/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
   </a>
-  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <a href="https://github.com/pedrohrg/semana-omnistack-10/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  </a>
 </p>
 
 ---
@@ -23,10 +25,10 @@ O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://roc
 <br>
 
 - ## :computer: Web
-<img align="center" src="github/web.png" width="75%"> 
+<img src="github/web.png" width="80%"> 
 
 - ## :iphone: Mobile
-<img align="center" src="github/mobile.png"> 
+<img src="github/mobile.png"> 
 
 ---
 ## Tecnologias
