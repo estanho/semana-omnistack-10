@@ -10,7 +10,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/estanho/semana-omnistack-10">
   
-  <a href="https://github.com/pedrohrg/semana-omnistack-10/commits/master">
+  <a href="https://github.com/estanho/semana-omnistack-10/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/estanho/semana-omnistack-10">
   </a>
   <a href="https://github.com/estanho/semana-omnistack-10/blob/master/LICENSE">
