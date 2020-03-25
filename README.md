@@ -6,14 +6,14 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/estanho/semana-omnistack-10">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedrohrg/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/estanho/semana-omnistack-10">
   
   <a href="https://github.com/pedrohrg/semana-omnistack-10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/estanho/semana-omnistack-10">
   </a>
-  <a href="https://github.com/pedrohrg/semana-omnistack-10/blob/master/LICENSE">
+  <a href="https://github.com/estanho/semana-omnistack-10/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   </a>
 </p>
