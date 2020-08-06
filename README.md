@@ -27,9 +27,6 @@ O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://roc
 - ## :computer: Web
 <img src="github/web.png" width="80%"> 
 
-- ## :iphone: Mobile
-<img src="github/mobile.png"> 
-
 ---
 ## Tecnologias
 
