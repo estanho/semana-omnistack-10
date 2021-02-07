@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: "dark"
+
 
 gems:
   - jemoji
